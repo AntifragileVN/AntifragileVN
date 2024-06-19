@@ -1,55 +1,86 @@
 [![MasterHead](https://i.pinimg.com/originals/37/42/fb/3742fba5eb0ca8e31e31d31588f7b353.jpg)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Vitalii</h1>
+# Hi 👋, I'm Vitalii
 
-<img align="right" alt="Coding" width="400" src="https://img4.teletype.in/files/7a/14/7a14d554-9ebd-4daf-903a-980ed540901a.gif" >
+<img align="right" alt="Coding" width="400" src="https://img4.teletype.in/files/7a/14/7a14d554-9ebd-4daf-903a-980ed540901a.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antifragilevn&label=Profile%20views&color=0e75b6&style=flat" alt="antifragilevn" /> </p>
+🌱 I'm FullStack developer from Ukraine
 
-- 🌱 I'm frontend developer from Ukraine
-
-- 📚 I study at the INHPE, Igor Sikorsky "Kyiv Polytechnic Institute".
+📚 I study at the INHPE, Igor Sikorsky "Kyiv Polytechnic Institute".
   
-- 💼 Now I work at "Information Systems Development Institute Ltd"
+💼 Now I work at "Information Systems Development Institute Ltd"
 
-- 🌱 Currently learning **Type-Script**
+🔭 How to reach me - **vitalii.dudar111@gmail.com**
+  
+<img src="https://komarev.com/ghpvc/?username=antifragilevn&label=Profile%20views&color=0e75b6&style=flat" alt="antifragilevn" />
 
-- 🔭 How to reach me - **vitalii.dudar111@gmail.com**
+### Connect with me:
+[![LinkedIn][LinkedIn-badge]][LinkedIn-url]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vitalii-dudar-8a7b2728a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitalii-dudar-8a7b2728a" height="30" width="40" /></a>
+### Languages and Tools:
+<p align="center">
+
+ [![Html][Html5]][Html-url]
+ [![CSS][CSS-badge]][CSS-url]
+ [![JavaScript][JavaScript-badge]][JavaScript-url]
+ [![TypeScript][TypeScript-badge]][TypeScript-url]
+ [![React][React.js]][React-url]
+ [![Next][Next.js]][Next-url]
+ [![Redux][Redux-badge]][Redux-url]
+ [![Zustand][Zustand-badge]][Zustand-url]
+ [![Node.js][Node.js-badge]][Node.js-url]
+ [![Express][Express-badge]][Express-url]
+ [![NestJS][NestJS-badge]][NestJS-url]
+ [![MongoDB][MongoDB-badge]][MongoDB-url]
+ [![PostgreSQL][PostgreSQL-badge]][PostgreSQL-url]
+ [![Prisma][Prisma-badge]][Prisma-url]
+ [![React Query][React-Query-badge]][React-Query-url]
+ [![React Hook Form][React-Hook-Form-badge]][React-Hook-Form-url]
+ [![Git][Git-badge]][Git-url]
+ [![Docker][Docker-badge]][Docker-url]
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
-
+### Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antifragilevn&show_icons=true&locale=en&layout=compact" alt="antifragilevn" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=antifragilevn&" alt="antifragilevn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antifragilevn&" alt="antifragilevn" /></p>
+<!-- MARKDOWN LINKS & IMAGES -->
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Html5]: https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5
+[Html-url]:https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS-badge]: https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=blue
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[JavaScript-badge]: https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript
+[JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[TypeScript-badge]: https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript
+[TypeScript-url]: https://www.typescriptlang.org/
+[Redux-badge]: https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux
+[Redux-url]: https://redux.js.org/
+[Node.js-badge]: https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs
+[Node.js-url]: https://nodejs.org/
+[Express-badge]: https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express
+[Express-url]: https://expressjs.com/
+[NestJS-badge]: https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs
+[NestJS-url]: https://nestjs.com/
+[MongoDB-badge]: https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb
+[MongoDB-url]: https://www.mongodb.com/
+[PostgreSQL-badge]: https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql
+[PostgreSQL-url]: https://www.postgresql.org/
+[Prisma-badge]: https://img.shields.io/badge/prisma-000000?style=for-the-badge&logo=prisma
+[Prisma-url]: https://www.prisma.io/
+[React-Query-badge]: https://img.shields.io/badge/react--query-000000?style=for-the-badge&logo=reactquery
+[React-Query-url]: https://react-query.tanstack.com/
+[React-Hook-Form-badge]: https://img.shields.io/badge/react--hook--form-000000?style=for-the-badge&logo=reacthookform
+[React-Hook-Form-url]: https://react-hook-form.com/
+[Zustand-badge]: https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=zustand
+[Zustand-url]: https://zustand.surge.sh/
+[Git-badge]: https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git
+[Git-url]: https://git-scm.com/
+[Docker-badge]: https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker
+[Docker-url]: https://www.docker.com/
+[LinkedIn-badge]: https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[LinkedIn-url]: https://www.linkedin.com/in/vitalii-dudar-8a7b2728a/
