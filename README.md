@@ -18,7 +18,7 @@
 [![LinkedIn][LinkedIn-badge]][LinkedIn-url]
 
 ### Languages and Tools:
-<p align="center">
+<div align="center">
 
  [![Html][Html5]][Html-url]
  [![CSS][CSS-badge]][CSS-url]
@@ -38,7 +38,9 @@
  [![React Hook Form][React-Hook-Form-badge]][React-Hook-Form-url]
  [![Git][Git-badge]][Git-url]
  [![Docker][Docker-badge]][Docker-url]
-</p>
+ [![Webpack][Webpack-badge]][Webpack-url]
+ [![Vite][Vite-badge]][Vite-url]
+</div>
 
 ### Stats
 
@@ -84,3 +86,7 @@
 [Docker-url]: https://www.docker.com/
 [LinkedIn-badge]: https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/vitalii-dudar-8a7b2728a/
+[Webpack-badge]: https://img.shields.io/badge/webpack-000000?style=for-the-badge&logo=webpack
+[Webpack-url]: https://webpack.js.org/
+[Vite-badge]: https://img.shields.io/badge/vite-000000?style=for-the-badge&logo=vite
+[Vite-url]: https://vitejs.dev/
