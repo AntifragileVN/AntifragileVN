@@ -22,6 +22,7 @@
 
  [![Html][Html5]][Html-url]
  [![CSS][CSS-badge]][CSS-url]
+ [![Sass][Sass-badge]][Sass-url]
  [![JavaScript][JavaScript-badge]][JavaScript-url]
  [![TypeScript][TypeScript-badge]][TypeScript-url]
  [![React][React.js]][React-url]
@@ -56,6 +57,8 @@
 [Html-url]:https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS-badge]: https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=blue
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[Sass-badge]: https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass
+[Sass-url]: https://sass-lang.com/
 [JavaScript-badge]: https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript
 [JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [TypeScript-badge]: https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript
