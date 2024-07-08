@@ -7,8 +7,6 @@
 🌱 I'm FullStack developer from Ukraine
 
 📚 I study at the INHPE, Igor Sikorsky "Kyiv Polytechnic Institute".
-  
-💼 Now I work at "Information Systems Development Institute Ltd"
 
 🔭 How to reach me - **vitalii.dudar111@gmail.com**
   
