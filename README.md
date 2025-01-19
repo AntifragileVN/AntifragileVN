@@ -6,6 +6,8 @@
 
 🌱 I'm FullStack developer from Ukraine
 
+⚙️ Currently work in [Tribuna Digital](https://ua.tribuna.com/uk/)
+
 📚 I study at the INHPE, Igor Sikorsky "Kyiv Polytechnic Institute".
 
 🔭 How to reach me - **vitalii.dudar111@gmail.com**
