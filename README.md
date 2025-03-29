@@ -27,6 +27,7 @@
  [![TypeScript][TypeScript-badge]][TypeScript-url]
  [![React][React.js]][React-url]
  [![Next][Next.js]][Next-url]
+ [![GraphQL][GraphQL Badge]][GraphQL-url]
  [![Redux][Redux-badge]][Redux-url]
  [![Zustand][Zustand-badge]][Zustand-url]
  [![Node.js][Node.js-badge]][Node.js-url]
@@ -93,3 +94,5 @@
 [Webpack-url]: https://webpack.js.org/
 [Vite-badge]: https://img.shields.io/badge/vite-000000?style=for-the-badge&logo=vite
 [Vite-url]: https://vitejs.dev/
+[GraphQL Badge]:https://img.shields.io/badge/GraphQL-E10098?logo=graphql&style=for-the-badge
+[GraphQL-url]:https://graphql.org/
