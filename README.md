@@ -1,16 +1,12 @@
 [![MasterHead](https://i.pinimg.com/originals/37/42/fb/3742fba5eb0ca8e31e31d31588f7b353.jpg)](https://rishavchanda.io)
 
-# Hi 👋, I'm Vitalii
+# Hi 👋
 
 <img align="right" alt="Coding" width="400" src="https://img4.teletype.in/files/7a/14/7a14d554-9ebd-4daf-903a-980ed540901a.gif" />
 
-🌱 I'm FullStack developer from Ukraine
+⚙️ Frontend dev in [Tribuna.coml](https://ua.tribuna.com/uk/)
 
-⚙️ Currently work in [Tribuna Digital](https://ua.tribuna.com/uk/)
-
-📚 I study at the INHPE, Igor Sikorsky "Kyiv Polytechnic Institute".
-
-🔭 How to reach me - **vitalii.dudar111@gmail.com**
+📚 I have a bachelor’s degree from Igor Sikorsky "Kyiv Polytechnic Institute"
   
 <img src="https://komarev.com/ghpvc/?username=antifragilevn&label=Profile%20views&color=0e75b6&style=flat" alt="antifragilevn" />
 
