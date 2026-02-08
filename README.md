@@ -4,11 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://img4.teletype.in/files/7a/14/7a14d554-9ebd-4daf-903a-980ed540901a.gif" />
 
-⚙️ Frontend dev in [Tribuna.coml](https://ua.tribuna.com/uk/)
+⚙️ I`m Frontend dev in [Tribuna.coml](https://ua.tribuna.com/uk/)
 
 📚 I have a bachelor’s degree from Igor Sikorsky "Kyiv Polytechnic Institute"
-  
-<img src="https://komarev.com/ghpvc/?username=antifragilevn&label=Profile%20views&color=0e75b6&style=flat" alt="antifragilevn" />
 
 ### Connect with me:
 [![LinkedIn][LinkedIn-badge]][LinkedIn-url]
