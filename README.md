@@ -14,7 +14,6 @@
 ### Languages and Tools:
 <div align="center">
 
- [![Html][Html5]][Html-url]
  [![Sass][Sass-badge]][Sass-url]
  [![TypeScript][TypeScript-badge]][TypeScript-url]
  [![Next][Next.js]][Next-url]
